@@ -1,1 +1,0 @@
-return <div>Hajar 2 half daam</div>;
